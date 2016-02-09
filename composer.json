@@ -13,9 +13,6 @@
     "autoload": {
         "psr-4": {
             "DigitalHammer\\UserSettings\\": "src/"
-        },
-        "files": [
-            "src/helpers.php"
-        ]
+        }
     }
 }
